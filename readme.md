@@ -12,3 +12,7 @@ Just 5 indegrients -
     eggs, 
     butter, 
     sugar
+   
+   https://github.com/AtharvaR1709/Chocolate-Mousse/blob/main/indegrients.md - more about indegrients
+   
+   https://github.com/AtharvaR1709/Chocolate-Mousse/blob/main/recipe.md - recipe
